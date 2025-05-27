@@ -2,3 +2,4 @@ plotly
 folium
 yfinance
 streamlit-folium
+pandas
