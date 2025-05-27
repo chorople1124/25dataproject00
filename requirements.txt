@@ -1,3 +1,4 @@
 plotly
 folium
 yfinance
+pip install streamlit-folium
