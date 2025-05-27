@@ -1,7 +1,7 @@
-
 import streamlit as st
 import folium
 from streamlit_folium import st_folium
+
 
 # 서울 서초구 중심 좌표
 SEOCHO_COORDS = (37.4765, 127.0334)
